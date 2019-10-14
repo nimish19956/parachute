@@ -1,0 +1,145 @@
+Creating New Aircraft Object: 0
+New Aircraft Object Has Just Been Initalized: 0
+Initial X-Coord: 78
+Initial Y-Coord: 31
+New Boeing 747 Object Has Just Been Iniitalized: 0
+X-Coord: 51
+Y-Coord: 60
+Creating New Aircraft Object: 1
+New Aircraft Object Has Just Been Initalized: 1
+Initial X-Coord: 40
+Initial Y-Coord: 15
+New Boeing 747 Object Has Just Been Iniitalized: 1
+X-Coord: 59
+Y-Coord: 48
+Creating New Aircraft Object: 2
+New Aircraft Object Has Just Been Initalized: 2
+Initial X-Coord: 3
+Initial Y-Coord: 67
+New Boeing 747 Object Has Just Been Iniitalized: 2
+X-Coord: 57
+Y-Coord: 49
+Creating New Aircraft Object: 3
+New Aircraft Object Has Just Been Initalized: 3
+Initial X-Coord: 11
+Initial Y-Coord: 88
+New Boeing 747 Object Has Just Been Iniitalized: 3
+X-Coord: 67
+Y-Coord: 60
+Creating New Aircraft Object: 4
+New Aircraft Object Has Just Been Initalized: 4
+Initial X-Coord: 13
+Initial Y-Coord: 13
+New Boeing 747 Object Has Just Been Iniitalized: 4
+X-Coord: 50
+Y-Coord: 62
+
+Aircraft [ 0 ]
+Final X-Coord: 78
+Final Y-Coord: 31
+
+Aircraft [ 1 ]
+Final X-Coord: 40
+Final Y-Coord: 15
+
+Aircraft [ 2 ]
+Final X-Coord: 3
+Final Y-Coord: 67
+
+Aircraft [ 3 ]
+Final X-Coord: 11
+Final Y-Coord: 88
+
+Aircraft [ 4 ]
+Final X-Coord: 13
+Final Y-Coord: 13
+
+Aircraft  0
+Starting from: ( 78 , 31 )
+Headed to: ( 51 , 60 )
+We have arrived
+Acceleration Constant: 1
+
+Aircraft  1
+Starting from: ( 40 , 15 )
+Headed to: ( 59 , 48 )
+40 , 15.0
+41 , 16.736842105263165
+42 , 18.473684210526315
+43 , 20.21052631578948
+44 , 21.94736842105263
+45 , 23.684210526315795
+46 , 25.421052631578945
+47 , 27.15789473684211
+48 , 28.894736842105274
+49 , 30.631578947368425
+50 , 32.36842105263159
+51 , 34.10526315789474
+52 , 35.842105263157904
+53 , 37.578947368421055
+54 , 39.31578947368422
+55 , 41.05263157894737
+56 , 42.789473684210535
+57 , 44.526315789473685
+58 , 46.26315789473685
+59 , 48.0
+We have arrived
+Acceleration Constant: 1
+
+Aircraft  2
+Starting from: ( 3 , 67 )
+Headed to: ( 57 , 49 )
+57 , 49.0
+We have arrived
+Acceleration Constant: 1
+
+Aircraft  3
+Starting from: ( 11 , 88 )
+Headed to: ( 67 , 60 )
+67 , 60.0
+We have arrived
+Acceleration Constant: 1
+
+Aircraft  4
+Starting from: ( 13 , 13 )
+Headed to: ( 50 , 62 )
+13 , 13.0
+14 , 14.324324324324323
+15 , 15.64864864864865
+16 , 16.972972972972972
+17 , 18.297297297297295
+18 , 19.62162162162162
+19 , 20.945945945945944
+20 , 22.27027027027027
+21 , 23.594594594594593
+22 , 24.91891891891892
+23 , 26.243243243243242
+24 , 27.567567567567565
+25 , 28.891891891891888
+26 , 30.216216216216218
+27 , 31.54054054054054
+28 , 32.86486486486486
+29 , 34.189189189189186
+30 , 35.513513513513516
+31 , 36.83783783783784
+32 , 38.16216216216216
+33 , 39.486486486486484
+34 , 40.81081081081081
+35 , 42.13513513513514
+36 , 43.45945945945946
+37 , 44.78378378378378
+38 , 46.108108108108105
+39 , 47.432432432432435
+40 , 48.75675675675676
+41 , 50.08108108108108
+42 , 51.4054054054054
+43 , 52.729729729729726
+44 , 54.054054054054056
+45 , 55.37837837837838
+46 , 56.7027027027027
+47 , 58.027027027027025
+48 , 59.35135135135135
+49 , 60.67567567567567
+50 , 61.99999999999999
+We have arrived
+Acceleration Constant: 1

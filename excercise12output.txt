@@ -1,0 +1,20 @@
+
+Aircraft 1 coordinates:
+x-coordinate is: [1]
+y-coordinate is: [2]
+
+Aircraft 2 coordinates:
+x-coordinate is: [3]
+y-coordinate is: [4]
+
+Aircraft 3 coordinates:
+x-coordinate is: [5]
+y-coordinate is: [6]
+
+Aircraft 4 coordinates:
+x-coordinate is: [7]
+y-coordinate is: [8]
+
+Aircraft 5 coordinates:
+x-coordinate is: [9]
+y-coordinate is: [10]
